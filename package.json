@@ -8,10 +8,7 @@
   "dependencies": {
     "google-closure-library": "^20180506.0.0",
     "ws": "6.1.x",
-    "eris": "^0.17.1",
-    "heroku": "^7.62.0",
-    "@heroku-cli/plugin-pipelines": "^7.62.0"
-  },
+    },
   "engines": {
     "node": "16.x"
   },
